@@ -368,7 +368,7 @@
 "t5127":{"message":"Lista"},
 "t5128":{"message":"Lista dettagliata"},
 "h60":{"message":"Esporta/backup e importa"},
-"t614":{"message":"Qui puoi scaricare una copia di backup delle tue impostazioni e cronologia ('Esporta')."},
+"t614":{"message":"Qui puoi scaricare una copia di backup delle impostazioni e cronologia ('Esporta')."},
 "t615":{"message":"In caso di perdita dei dati puoi importare questo file di backup."},
 "h611":{"message":"Memoria locale"},
 "h612":{"message":"Sincronizza memoria"},
